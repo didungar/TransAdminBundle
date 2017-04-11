@@ -1,0 +1,20 @@
+{
+    "name": "DidUngar/TransAdminBundle
+Bundle",
+    "type": "library",
+    "description": "Bundle pour administrer les clef de langues.",
+    "authors": [
+        {
+            "name": "Didier Ungar",
+            "email": "didungar@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": ["/"]
+    },
+    "extra": {
+        "branch-alias": {
+            "master": "1.0.0"
+        }
+    }
+}
