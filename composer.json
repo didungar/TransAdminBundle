@@ -1,6 +1,5 @@
 {
-    "name": "DidUngar/TransAdminBundle
-Bundle",
+    "name": "DidUngar/TransAdminBundle",
     "type": "library",
     "description": "Bundle pour administrer les clef de langues.",
     "authors": [
